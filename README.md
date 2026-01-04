@@ -19,8 +19,8 @@ _____
 ```
 - The Bomb Icon is blue instead of green (similarly to CS Beta 4.0)
 - Several voice lines are placeholders or unprocessed.
-- The game might take minutes to start a new round if all players die after the bomb safely, or if a round draw happens.
-- Only 1 map is provided with this build: bd_train which also contain slight map differences.
+- Getting a round draw might softlock the whole game (or will restart a round after several minutes)?
+- Only 1 map is provided with this build: bd_train which also contain minor map differences.
 ```
 
 
