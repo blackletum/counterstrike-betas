@@ -2,12 +2,12 @@
 
 - Leaked build from the 20th of December, 1999 by someone named Shadows.
 - Also known as version `0.5.39` according to its `liblist.gam`. 
-- Build was preserved and shared by nirv.
+- Build was preserved and shared by **nirv** (thank you !).
 - The initial archive did not contain any `cstrike` folder, only its contents.
 
 ## Supported versions
 - [x] **Windows**
-- [] **Linux**
+- [ ] **Linux**
 
 ## Recommended Half-Life / HLDS version to play
 - Windows: Half-Life v1.0.1.6
